@@ -1,5 +1,7 @@
 package main
 
-func sayHello() {
+func main() {
+	func sayHello() {
 	return "Say Hello"
+}
 }
