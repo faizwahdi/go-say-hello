@@ -1,7 +1,7 @@
-package main
+package gosayhello
 
 func main() {
-	func sayHello() {
-	return "Say Hello"
-}
+	func sayHello() string {
+		return "Hello"
+	}
 }
